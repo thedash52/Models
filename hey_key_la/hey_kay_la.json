@@ -4,6 +4,7 @@
   "author": "Daniel nash",
   "website": "",
   "model": "https://github.com/thedash52/Models/blob/a50e8d19ecb9b18a73c2d73b46d955098b41c900/hey_key_la/hey_kay_la.tflite?raw=true",
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
